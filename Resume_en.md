@@ -3,7 +3,7 @@ Hello. My name is Alexander Ivanov and this is my resume
 
 
 <p>
-<img src="images/Photo.jpg" alt="MyPhoto" width="500"/>
+<img src="https://github.com/Eremi1245/Resume/blob/main/images/Photo.jpg?raw=true" alt="MyPhoto" width="400"/>
 </p>
 
 # Content
@@ -120,6 +120,8 @@ Since October 2021 I have been working as a junior in <a href=https://glowbyteco
 </details>
 
 <h3>Git 🌳</h3>
+
+<h3>Linux 🌎</h3>
     
 [To content](#content)
 

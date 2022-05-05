@@ -2,7 +2,7 @@
 Здравствуйте. Меня зовут Александр Иванов, и это мое резюме
 
 <p>
-<img src="images/Photo.jpg" alt="MyPhoto" width="500"/>
+<img src="https://github.com/Eremi1245/Resume/blob/main/images/Photo.jpg?raw=true" alt="MyPhoto" width="400"/>
 </p>
 
 # Content
@@ -119,5 +119,7 @@
 </details>
 
 <h3>Git 🌳</h3>
+
+<h3>Linux 🌎</h3>
     
 [К оглавлению](#content)
