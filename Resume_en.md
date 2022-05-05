@@ -11,6 +11,7 @@ Hello. My name is Alexander Ivanov and this is my resume
 - [Contacts](#contacts)
 - [Career](#career)
 - [My stack](#stack)
+- [Projects](#projects)
 
 # About
 - Date of birth: 03 April 1995 (27 years old)
@@ -125,3 +126,11 @@ Since October 2021 I have been working as a junior in <a href=https://glowbyteco
     
 [To content](#content)
 
+# Projects
+
+The section is in the filling stage...
+
+- <a href=https://github.com/Eremi1245/PomidoroTimerApp>Pomidoro Timer</a>🍅 - timer for time management
+
+
+[К оглавлению](#content)
